@@ -3,7 +3,7 @@
 This repo contains Oumi’s problem statement and starter template for:
 
 * [Nebius.Build SF](https://nebius.com/events/nebius-build-sf), March 15, 2026  
-* [Hacklipse 6.0](https://eclipse.acmthapar.in/), April 4-5, 2026
+* [Eclipse 6.0](https://eclipse.acmthapar.in/), April 4-5, 2026
 
 ## Problem Statement
 
