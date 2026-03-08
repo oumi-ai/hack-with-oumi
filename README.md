@@ -56,7 +56,7 @@ Here are some suggestions for how you can modularize an agent into task specific
 * Memory management (are there any relevant facts in the query that would be useful in the future?)
 
 ## Starter Template 
-I will include a starter template Voice Agent in this repo under `/template` shortly.
+I will include a starter template Voice Agent in this repo under `/template` shortly. This will allow participants to focus on the "agent" part of the voice agent and not have to worry about the STT, TTS, and audio pipeline parts.
 
 ## Submission Showcase
 After judging is complete, we will add interesting submissions to this section.
