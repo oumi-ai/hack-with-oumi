@@ -56,7 +56,9 @@ Here are some suggestions for how you can modularize an agent into task specific
 * Memory management (are there any relevant facts in the query that would be useful in the future?)
 
 ## Starter Template 
-I will include a starter template Voice Agent in this repo under `/template` shortly. This will allow participants to focus on the "agent" part of the voice agent and not have to worry about the STT, TTS, and audio pipeline parts.
+We have included a starter template Voice Agent in this repo under [`/template`](https://github.com/oumi-ai/hack-with-oumi/tree/main/template). See the [README](https://github.com/oumi-ai/hack-with-oumi/tree/main/template) there for instruction on how to install and use.
+
+The template is intended to allow participants to focus on the "agent" part of the voice agent and not have to worry about the STT, TTS, and audio pipeline parts. There are no requirements to use this code, although it may help you to build faster.
 
 ## Submission Showcase
 After judging is complete, we will add interesting submissions to this section.
