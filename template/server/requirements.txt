@@ -106,7 +106,7 @@ phonemizer==3.3.0
 phonemizer-fork==3.3.2
 pillow==12.1.1
 Pint==0.25.2
--e git+https://github.com/pipecat-ai/pipecat.git@47b463ba90c4beee0a2aaec940084c8d2c52bfba#egg=pipecat_ai
+-e git+https://github.com/stefanwebb/pipecat.git@7e0a63542e388b4aaaf80db392f2627eb3e8adab#egg=pipecat_ai
 platformdirs==4.9.4
 pooch==1.9.0
 preshed==3.0.12
