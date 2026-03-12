@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/stefanwebb/Code/python/hack-with-oumi/template/client/src/app/page.tsx"],"sourcesContent":["\"use client\";\n\nimport {\n  ConsoleTemplate,\n  FullScreenContainer,\n  ThemeProvider,\n} from \"@pipecat-ai/voice-ui-kit\";\n\nexport default function Home() {\n  return (\n    <ThemeProvider>\n      <FullScreenContainer>\n        <ConsoleTemplate\n          transportType=\"smallwebrtc\"\n          connectParams={{\n            connectionUrl: \"/api/offer\",\n          }}\n          noUserVideo={true}\n        />\n      </FullScreenContainer>\n    </ThemeProvider>\n  );\n}"],"names":[],"mappings":";;;;;AAEA;AAFA;;;AAQe,SAAS;IACtB,qBACE,6LAAC,0MAAa;kBACZ,cAAA,6LAAC,gNAAmB;sBAClB,cAAA,6LAAC,4MAAe;gBACd,eAAc;gBACd,eAAe;oBACb,eAAe;gBACjB;gBACA,aAAa;;;;;;;;;;;;;;;;AAKvB;KAdwB"}}]
-}
