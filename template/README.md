@@ -16,6 +16,8 @@ conda activate pipecat
 git clone https://github.com/oumi-ai/hack-with-oumi
 cd hack-with-oumi/template/server
 pip install -r requirements.txt
+pip uninstall phonemizer
+pip install phonemizer-fork
 ```
 Download and cache the TTS model in advance to avoid any delays in the pipeline when it is starting for the first time:
 ```bash

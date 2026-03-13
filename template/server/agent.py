@@ -4,7 +4,7 @@ from pipecat.frames.frames import Frame, LLMTextFrame, LLMFullResponseEndFrame, 
 from pipecat.processors.frame_processor import FrameDirection, FrameProcessor
 from pipecat.frames.frames import LLMTextFrame, LLMMessagesAppendFrame, TTSSpeakFrame, TextFrame
 
-with open('./banking77-labels.txt', 'r') as file:
+with open('./template/server/banking77-labels.txt', 'r') as file:
     lines = file.readlines()
 
 labels = [l.split('\t')[1].strip().replace('_', ' ') for l in lines]

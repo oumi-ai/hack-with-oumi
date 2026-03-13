@@ -79,7 +79,7 @@ mdurl==0.1.2
 miniaudio==1.61
 misaki==0.9.4
 mlx==0.30.6
-mlx-audio==0.4.0
+mlx-audio
 mlx-embeddings==0.0.5
 mlx-lm==0.30.7
 mlx-metal==0.30.6
@@ -100,10 +100,8 @@ onnxruntime==1.23.2
 openai==2.26.0
 opencv-python-headless==4.13.0.92
 orjson==3.11.7
-packaging @ file:///opt/miniconda3/conda-bld/packaging_1761049079150/work
+packaging==26.0
 pandas==3.0.1
-phonemizer==3.3.0
-phonemizer-fork==3.3.2
 pillow==12.1.1
 Pint==0.25.2
 -e git+https://github.com/stefanwebb/pipecat.git@7e0a63542e388b4aaaf80db392f2627eb3e8adab#egg=pipecat_ai
@@ -111,7 +109,7 @@ platformdirs==4.9.4
 pooch==1.9.0
 preshed==3.0.12
 propcache==0.4.1
-protobuf==7.34.0
+protobuf~=5.29.6
 psutil==7.2.2
 pyarrow==23.0.1
 pycparser==3.0
