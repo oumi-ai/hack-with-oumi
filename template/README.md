@@ -16,6 +16,8 @@ conda activate pipecat
 git clone https://github.com/oumi-ai/hack-with-oumi
 cd hack-with-oumi/template/server
 pip install -r requirements.txt
+pip install -U mlx-audio
+pip install -U transformers
 pip uninstall phonemizer
 pip install phonemizer-fork
 ```
