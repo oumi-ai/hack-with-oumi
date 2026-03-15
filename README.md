@@ -1,5 +1,7 @@
 # Hack with Oumi: SLMs for Voice Agents
 
+![Illustration of conversation with the template voice agent](voice-agent-example.png)
+
 This repo contains Oumi’s problem statement and starter template for:
 
 * [Nebius.Build SF](https://nebius.com/events/nebius-build-sf), March 15, 2026  
